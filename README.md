@@ -4,13 +4,13 @@
 
 # Member&tasks:
 # Artur:
--Leader
--Management
--Coding
+# •Leader
+# •Management
+# •Coding
 --------------------------------------------
 # Marco:
--Management
--Coding
+# •Management
+# •Coding
 --------------------------------------------
 # Dylan:
--Coding
+# •Coding
