@@ -2,7 +2,7 @@
 
 # 2 Matrizen Addieren
 
-# Member&tasks:
+# _Member&tasks:
 # Artur:
 # •Leader
 # •Management
