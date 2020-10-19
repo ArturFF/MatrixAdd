@@ -1,8 +1,8 @@
 # Matrix Addition
-
+#
 # 2 Matrizen Addieren
-
-# _Member&tasks:
+#
+# Member&tasks:
 # Artur:
 # •Leader
 # •Management
