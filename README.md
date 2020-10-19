@@ -1,5 +1,7 @@
 # Matrix Addition
-~2 Matrizen Addieren~
+
+2 Matrizen Addieren
+
 # Member&tasks:
 # Artur:
 -Leader
