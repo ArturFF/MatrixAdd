@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+void main()
+{
+    //Initialisierung Artur
+    int a1, a2;
+    int b1, b2;
+    int c1, c2;
+    int d1, d2;
+    int erga, ergb;
+    int ergc, ergd;
+
+    //Erklärung des Programmes Dylan
+    printf("Dieses Programm addiert 2 Matrizen!");
+
+    //Eingabe der ersten Matrix Dylan
+    printf("Nennen Sie die 4 Zahlen Ihrer ersten Matrix!\n");
+    printf("1. Zahl:");
+    scanf("%d",&a1);
+    printf("\n2. Zahl:");
+    scanf("%d",&b1);
+    printf("\n3. Zahl:");
+    scanf("%d",&c1);
+    printf("\n4. Zahl:");
+    scanf("%d",&d1);
+
+    //Eingabe der zweiten Matrix Artur
+    printf("Nennen Sie die 4 Zahlen Ihrer zweiten Matrix!\n");
+    printf("1. Zahl:");
+    scanf("%d",&a2);
+    printf("\n2. Zahl:");
+    scanf("%d",&b2);
+    printf("\n3. Zahl:");
+    scanf("%d",&c2);
+    printf("\n4. Zahl:");
+    scanf("%d",&d2);
+
+    //Rechenvorgang Marco
+    erga=a1+a2;
+    ergb=b1+b2;
+    ergc=c1+c2;
+    ergd=d1+d2;
+
+    //Ausgabe Marco
+    printf("%d | %d     %d | %d          %d | %d\n",a1, b1, a2, b2, erga, ergb);
+    printf("         +            =\n");
+    printf("%d | %d     %d | %d          %d | %d\n",c1, d1, c2, d2, ergc, ergd);
+}
